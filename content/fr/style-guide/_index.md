@@ -8,7 +8,6 @@ menu:
 
 Ce guide de rédaction aide à comprendre la cible du Glossaire, la structure des définitions, le niveau requis de détails, ainsi que la manière
 de maintenir un style constant.
-This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
 
 Le Glossaire Cloud Natif suit le guide de [rédaction de référence](https://github.com/cncf/foundation/blob/master/style-guide.md) du dépôt de la CNCF.
 
@@ -107,7 +106,7 @@ Les définitions pour les catégories **technology** et **concept** contiennent 
 
 - **Ce que c'est** : fournis une explication claire et concise de ce dont nous parlons.
 - **Problème qu'il adresse** : se concentre sur le problème, pas la solution (cela vient dans la section suivante).
-  Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous à mené à avoir besoin de cette entité.
+  Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous a mené à avoir besoin de ce terme.
 - **Quel en est l'utilité**: maintenant, revenir sur le terme en lui-même. Comment est-ce qu'il adresse le problème décrit précédemment ?
 
 Noter que les propriétés ne nécessitent pas de section séparée. Un définition suffira.
